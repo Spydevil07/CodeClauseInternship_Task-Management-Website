@@ -13,6 +13,7 @@ assigned by the manager, can allocate tasks to individual team members. The team
 can then update the status of their tasks, providing a real-time overview of project
 progress.
 
+Technology Used - HTML, Bootstrap CSS, PHP, Ajax, and jQuery & MySQL,
 
 Task management application using PHP and MySQL
 
